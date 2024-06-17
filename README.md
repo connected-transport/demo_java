@@ -18,8 +18,8 @@ Any remarks, adustments or improvements to this demo code are always welcome.
 Let's all help to speed up the adoption of connected transport!
 
 Documentation:
-The complete documentation of the interfaxe is available on: https://dmi-ecosysteem.nl/fms-its/
-The yaml file used for the documentation can be found on: https://github.com/connected-transport/documentation
+- The complete documentation of the interface is available on: https://dmi-ecosysteem.nl/connected-transport/its-fms/
+- The yaml file used for the documentation can be found on: https://github.com/connected-transport/documentation
 
 We have created three different projects/repo's with the same demo, but in different programming languages:
 - C#(created with visual studio): https://github.com/connected-transport/demo_csharp
